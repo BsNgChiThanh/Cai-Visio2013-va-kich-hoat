@@ -3,6 +3,8 @@
 - Download source [Visio 2013](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ERkpQreWT2ZMrZ_vERUOQFkBFyT5ftd05_UsNvTWSKoO9w?e=SJWcvs):
 - https://drive.massgrave.dev/SW_DVD5_Visio_Pro_2013w_SP1_W32_English_MLF_X19-36365.ISO
 - https://drive.massgrave.dev/SW_DVD5_Visio_Pro_2013w_SP1_64Bit_English_MLF_X19-36393.ISO
+- https://raw.githubusercontent.com/BsNgChiThanh/Cai-Visio2013-va-kich-hoat/IMP/setupvisioproretail2013x86.en-us.exe
+- https://raw.githubusercontent.com/BsNgChiThanh/Cai-Visio2013-va-kich-hoat/IMP/setupvisioproretail2013x64.en-us.exe
 
 ## KÍCH HOẠT VISIO 2013 ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
